@@ -1,1 +1,1 @@
-[# test](https://wadar800.github.io/)
+https://wadar800.github.io/
